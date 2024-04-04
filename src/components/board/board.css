@@ -1,5 +1,6 @@
 .board {
+  width: 80vw;
+  height: 80vh;
   display: grid;
   grid-template-columns: repeat(3, 1fr); /* Three columns */
-  grid-gap: 10px; /* Adjust the gap between tiles */
 }
